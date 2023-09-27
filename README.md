@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Mining**
 
-- 💬 Ask me about **Anything you want I do my best to answer you.**
+- 💬 Ask me about **Anything you want I do my best to answer you**
   
 - 💬 I'm currently coding with **Python**
   
