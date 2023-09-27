@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Mining**
 
-- 💬 Ask me about **Linux, Python**
-
+- 💬 Ask me about **Anything you want I do my best to answer you.**
+  
+- 💬 I'm currently coding with **Python**
+  
 - 📫 Looking for a trainee who likes to work in machine learning or a related field? reach me **fatemehamerizead@gmail.com**
 
-- ⚡ Fun fact **I think I am good in strategic games**
+- ⚡ Fun fact **I think I am good at strategic games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
