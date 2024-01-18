@@ -9,7 +9,7 @@
   
 - 💬 I'm currently coding with **Python**
   
-- 📫 Looking for a trainee who likes to work in machine learning or a related field? reach me **fatemehamerizead@gmail.com**
+- 📫 Looking for a trainee who likes to work on machine learning or related field? You can contact me at **fatemehamerizead@gmail.com**
 
 - ⚡ Fun fact **I think I am good at strategic games**
 
