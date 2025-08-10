@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatemehameri97" target="blank"><img src="https://img.shields.io/twitter/follow/fatemehameri97?logo=twitter&style=for-the-badge" alt="fatemehameri97" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Mining**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Anything you want I do my best to answer you**
   
