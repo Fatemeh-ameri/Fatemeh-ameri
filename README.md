@@ -9,7 +9,7 @@
   
 - 💬 I'm currently coding with **Python**
   
-- 📫 I am seeking a trainee/internship position in machine learning or related fields. You can contact me at **fatemehamerizead@gmail.com**
+- 📫 I'm seeking a trainee/internship position in machine learning or related fields. You can contact me at **fatemehamerizead@gmail.com**
 
 - ⚡ Fun fact **I think I am good at strategic board games**
 
