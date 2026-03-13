@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Ameri Zeed</h1>
-<h3 align="center">Learning ML, Data Mining, Data Science</h3>
 
-<p align="left"> <a href="https://twitter.com/fatemehameri97" target="blank"><img src="https://img.shields.io/twitter/follow/fatemehameri97?logo=twitter&style=for-the-badge" alt="fatemehameri97" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
-
-- 💬 Ask me about **Anything you want, I do my best to answer you**
+- 🌱 Machine learning and data science enthusiast with a background in computer science.
   
-- 💬 I'm currently coding with **Python**
+- I work mainly with Python and libraries such as NumPy, Pandas, and Scikit-learn to build and evaluate machine learning models.
   
-- 📫 I'm seeking a trainee/internship position in machine learning or related fields. You can contact me at **fatemehamerizead@gmail.com**
-
-- ⚡ Fun fact **I think I am good at strategic board games**
+- 📫 Open to machine learning and data science opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
