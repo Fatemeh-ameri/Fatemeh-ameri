@@ -6,14 +6,6 @@
   
 - 📫 Open to machine learning and data science opportunities.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fatemehameri97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatemehameri97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatemeh-ameri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatemeh-ameri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fatemeh-ameri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fatemeh-ameri" height="30" width="40" /></a>
-<a href="https://kaggle.com/fatemehameri1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatemehameri1997" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
