@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatemeh Ameri</h1>
+<h1 align="center">Hi 👋, I'm Fatemeh Ameri Zeed</h1>
 <h3 align="center">Learning ML, Data Mining, Data Science</h3>
 
 <p align="left"> <a href="https://twitter.com/fatemehameri97" target="blank"><img src="https://img.shields.io/twitter/follow/fatemehameri97?logo=twitter&style=for-the-badge" alt="fatemehameri97" /></a> </p>
