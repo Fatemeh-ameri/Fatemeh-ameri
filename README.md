@@ -1,38 +1,38 @@
-<h1 align="center">Hi 👋, I'm Fatemeh Ameri Zeed</h1>
+# Hi, I'm Fatemeh Ameri Zeed 👋
 
-- Machine learning and data science enthusiast with a background in computer science.
-  
-- I work mainly with Python and libraries such as NumPy, Pandas, and Scikit-learn to build and evaluate machine learning models.
-  
-- Open to machine learning and data science opportunities.
+**M.Sc. Data Science (2025)** · Machine Learning & Deep Learning · Python  
+📍 Yerevan, Armenia · Open to relocation  
+🎯 Seeking a **fully-funded Ph.D.** in Machine Learning, Deep Learning, or Health Informatics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh--ameri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ameri)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemehamerizead@gmail.com)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemeh-ameri&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fatemeh-ameri" /></p>
+---
 
+## 🔬 Research Interests
+
+`Time-Series Classification` · `Human Activity Recognition` · `Deep Learning` · `Wearable & Health Informatics` · `Applied ML`
+
+---
+
+## 📂 Featured Project
+
+🔗 [step_prediction](https://github.com/Fatemeh-ameri/step_prediction) — M.Sc. Thesis: *Physical Activity Classification and Step Prediction using ML & Deep Learning*  
+Benchmarked ROCKET, MiniRocket, LSTM, GRU, and CNN-1D on real wearable sensor datasets (PMData, MOX). Best result: **CNN-1D achieved RMSE = 1164** on daily step prediction.
+
+---
+
+## 🛠️ Languages & Tools
+
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)](https://numpy.org/)
+[![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/)
+[![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
+[![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)](https://www.tensorflow.org/)
+[![PyTorch](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)](https://pytorch.org/)
+[![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
+[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
+
+---
+
+*I'm actively looking for Ph.D. opportunities. Feel free to reach out!*
