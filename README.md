@@ -4,9 +4,6 @@ I'm a Data Science graduate with a strong interest in machine learning for time-
 My M.Sc. thesis involved implementing and benchmarking classical ML and deep learning models (LSTM, GRU, CNN-1D) on wearable sensor datasets for activity recognition and step prediction.
 I enjoy building things from the mathematical ground up — most of my repos include from-scratch implementations alongside experiments on real datasets.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatemeh--ameri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-ameri)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemehamerizead@gmail.com)
-
 ---
 
 ## 🔬 Research Interests
