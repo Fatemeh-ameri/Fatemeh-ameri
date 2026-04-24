@@ -11,7 +11,7 @@ I enjoy building things from the mathematical ground up — most of my repos inc
 
 ## 🔬 Research Interests
 
-`Time-Series Classification` · `Human Activity Recognition` · `Deep Learning` · `Wearable & Health Informatics` · `Applied ML`
+`Time-Series Classification` · `Recommendation Systems` · `Human Activity Recognition` · `Deep Learning` · `Wearable & Health Informatics` · `Applied ML`
 
 ---
 
