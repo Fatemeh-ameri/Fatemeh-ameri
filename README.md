@@ -8,9 +8,9 @@ I enjoy understanding how models work, so some of my repositories include from-s
 
 ---
 
-## 🔬 Research Interests
+## Areas of Interest
 
-`Time-Series Data` · `Human Activity Recognition` · `Step Prediction` · `Recommendation Systems` · `Applied Machine Learning` · `Deep Learning` · `Wearable Sensor Data`
+`Machine Learning` · `Data Science` · `Applied ML` · `Time-Series Data` · `Recommendation Systems` · `Model Evaluation`
 
 ---
 
